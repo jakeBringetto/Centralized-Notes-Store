@@ -33,7 +33,7 @@ def explore(G, v):
 
 #### Analysis of above code:
 
-![From DPV (CS170 textbook)](<../.gitbook/assets/Screen Shot 2021-09-30 at 1.50.58 PM.png>)
+![From DPV (CS170 textbook)](<../.gitbook/assets/Screen Shot 2021-09-30 at 1.50.58 PM (1).png>)
 
 Another interesting fact is that the edges traversed by DFS forms a tree.
 
@@ -51,11 +51,11 @@ def dfs(G):
              explore(G, v) 
 ```
 
-Note: to see if a graph is connected, we can define the visit function in explore to fill in a dictionary mapping vertices to a connected component number, which starts at 0 and is incremented every time explore is called in dfs.  If this dictionary has the same value for every key, the graph is connected.
+Note: to see if a graph is connected, we can define the visit function in explore to fill in a dictionary mapping vertices to a connected component number, which starts at 0 and is incremented every time explore is called in dfs. If this dictionary has the same value for every key, the graph is connected.
 
-![From DPV](<../.gitbook/assets/Screen Shot 2021-09-30 at 2.07.08 PM.png>)
+![From DPV](<../.gitbook/assets/Screen Shot 2021-09-30 at 2.07.08 PM (1).png>)
 
-During dfs we can also keep a clock to give each node a pre and post order number, and these numbers have a plethora of properties that will help us in various tasks. One such task is topological sort. The procedure for topological sort on a DAG (directed acyclic graph) is to run dfs and record the post order numbers.  Using properties of post order numbers, we can show that the linearized (sorted) output is given by the post order numbers ini descending order. This can be concluded using the observation that all descendants of a particular vertex must have a lower post order number.  This also implies that sinks have the lowest numbers, and sources have the highest.
+During dfs we can also keep a clock to give each node a pre and post order number, and these numbers have a plethora of properties that will help us in various tasks. One such task is topological sort. The procedure for topological sort on a DAG (directed acyclic graph) is to run dfs and record the post order numbers. Using properties of post order numbers, we can show that the linearized (sorted) output is given by the post order numbers ini descending order. This can be concluded using the observation that all descendants of a particular vertex must have a lower post order number. This also implies that sinks have the lowest numbers, and sources have the highest.
 
 Extra: Iterative DFS
 
@@ -74,4 +74,3 @@ def dfs(G, v):
             if !visited[u]:
                 stack.append(u)
 ```
-

@@ -28,6 +28,8 @@ Life contains but two tragedies. One is not to get your heart’s desire; the ot
 
 #### At the touch of love everyone becomes a poet.
 
+We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+
 ### Rene Descartes
 
 I think therefore I am” (“Cogito, ergo sum”)
@@ -60,23 +62,23 @@ The brave man is he who overcomes not only his enemies but his pleasures.
 
 Throw moderation to the winds, and the greatest pleasures bring the greatest pains.
 
-The wrongdoer is more unfortunate than the man wronged.&#x20;
+The wrongdoer is more unfortunate than the man wronged.
 
 ### Lao Tzu
 
-He who knows, does not speak. He who speaks, does not know.&#x20;
+He who knows, does not speak. He who speaks, does not know.
 
 The journey of a thousand miles begins with one step.
 
-The journey of a thousand miles begins with one step.&#x20;
+The journey of a thousand miles begins with one step.
 
-The journey of a thousand miles begins with one step.&#x20;
+The journey of a thousand miles begins with one step.
 
 #### Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
 
 ### Blaise Pascal
 
-The journey of a thousand miles begins with one step.&#x20;
+The journey of a thousand miles begins with one step.
 
 ### Heraclitus
 
@@ -104,7 +106,6 @@ There is nothing constant in this world but inconsistency.
 
 I never wonder to see men wicked, but I often wonder to see them not ashamed.
 
-### Kendrick Lamar&#x20;
+### Kendrick Lamar
 
 If I told you that a flower bloomed in a dark room would you trust it.
-
