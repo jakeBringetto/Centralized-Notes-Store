@@ -78,7 +78,7 @@
 ## The Artist
 
 * [School of Athens](the-artist/school-of-athens.md)
-* [Page 1](the-artist/page-1.md)
+* [Beeple (NFTs and digital art)](the-artist/page-1.md)
 
 ## The real questions
 
