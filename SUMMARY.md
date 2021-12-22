@@ -21,6 +21,10 @@
 * [Projection and Least Squares](ml-foundations/projection-and-least-squares.md)
 * [SVD](ml-foundations/svd.md)
 * [PCA](ml-foundations/pca.md)
+* [Math for ML](ml-foundations/math-for-ml/README.md)
+  * [Linear Algebra](ml-foundations/math-for-ml/linear-algebra/README.md)
+    * [Vector Spaces](ml-foundations/math-for-ml/linear-algebra/vector-spaces.md)
+  * [Calculus/Optimization](ml-foundations/math-for-ml/calculus-optimization.md)
 
 ## Research Papers
 
