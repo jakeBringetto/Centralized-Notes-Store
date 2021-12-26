@@ -88,3 +88,7 @@
 
 * [🧐 Links](the-real-questions/links.md)
 * [Steemit](the-real-questions/steemit.md)
+
+## Everydays
+
+* [December 26, 2021](everydays/december-26-2021.md)
