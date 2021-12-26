@@ -109,3 +109,11 @@ I never wonder to see men wicked, but I often wonder to see them not ashamed.
 ### Kendrick Lamar
 
 If I told you that a flower bloomed in a dark room would you trust it.
+
+### Patrick Rothfuss:
+
+There are three things all wise men fear: **the sea in storm, a night with no moon, and the anger of a gentle man**.
+
+### Ninon de L'enclos:
+
+Much more genius is needed to make love than to command armies.
