@@ -78,6 +78,8 @@
 * [😎 Quotes](the-philosopher/quotes.md)
 * [The Republic](the-philosopher/the-republic.md)
 * [Aeneid](the-philosopher/aeneid.md)
+* [Stoicism](the-philosopher/stoicism/README.md)
+  * [Meditations](the-philosopher/stoicism/meditations.md)
 
 ## The Artist
 
