@@ -94,3 +94,9 @@
 ## Everydays
 
 * [December 26, 2021](everydays/december-26-2021.md)
+
+## The Poet
+
+* [Minecraft End Poem](the-poet/minecraft-end-poem.md)
+* [When I Heard the Learn'd Astronomer](the-poet/when-i-heard-the-learnd-astronomer.md)
+* [Page 1](the-poet/page-1.md)
