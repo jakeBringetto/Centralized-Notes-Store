@@ -100,3 +100,7 @@
 * [Minecraft End Poem](the-poet/minecraft-end-poem.md)
 * [When I Heard the Learn'd Astronomer](the-poet/when-i-heard-the-learnd-astronomer.md)
 * [O Captain! My Captain!](the-poet/o-captain-my-captain.md)
+
+## Modernity
+
+* [Irony](modernity/irony.md)
