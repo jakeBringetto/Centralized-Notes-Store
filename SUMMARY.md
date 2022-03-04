@@ -80,6 +80,7 @@
 * [Aeneid](the-philosopher/aeneid.md)
 * [Stoicism](the-philosopher/stoicism/README.md)
   * [Meditations](the-philosopher/stoicism/meditations.md)
+* [Animalism](the-philosopher/animalism.md)
 
 ## The Artist
 

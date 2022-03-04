@@ -30,6 +30,18 @@ Life contains but two tragedies. One is not to get your heart’s desire; the ot
 
 We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
 
+### Seneca
+
+Sometimes even to live is an act of courage.
+
+We suffer more in imagination than in reality.
+
+Begin at once to live, and count each separate day as a separate life.\
+
+
+\
+
+
 ### Rene Descartes
 
 I think therefore I am” (“Cogito, ergo sum”)
