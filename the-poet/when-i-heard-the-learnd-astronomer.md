@@ -10,7 +10,7 @@ description: Walt Whitman
 >
 > When I was shown the charts and diagrams, to add, divide and measure them,&#x20;
 >
-> When I sitting head the astronomer where he lectured with much applause in the lecture room,
+> When I sitting heard the astronomer where he lectured with much applause in the lecture room,
 >
 > How soon unaccountable I became tired and sick,
 >

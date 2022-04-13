@@ -81,6 +81,7 @@
 * [Stoicism](the-philosopher/stoicism/README.md)
   * [Meditations](the-philosopher/stoicism/meditations.md)
 * [Animalism](the-philosopher/animalism.md)
+* [all that noise and all that sound](the-philosopher/all-that-noise-and-all-that-sound.md)
 
 ## The Artist
 
@@ -102,6 +103,7 @@
 * [When I Heard the Learn'd Astronomer](the-poet/when-i-heard-the-learnd-astronomer.md)
 * [O Captain! My Captain!](the-poet/o-captain-my-captain.md)
 * [Convergence of Twain](the-poet/convergence-of-twain.md)
+* [The Road not Taken](the-poet/the-road-not-taken.md)
 
 ## Modernity
 
