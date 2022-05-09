@@ -30,6 +30,12 @@ Life contains but two tragedies. One is not to get your heart’s desire; the ot
 
 We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
 
+Courage is knowing what not to fear.
+
+They certainly give very strange names to diseases.
+
+
+
 ### Seneca
 
 Sometimes even to live is an act of courage.
@@ -39,7 +45,14 @@ We suffer more in imagination than in reality.
 Begin at once to live, and count each separate day as a separate life.\
 
 
-\
+### Diogenes
+
+I do not know whether there are gods, but there ought to be.
+
+It takes a wise man to discover a wise man.
+
+The foundation of every state is the education of its youth.
+
 
 
 ### Rene Descartes
@@ -76,6 +89,8 @@ Throw moderation to the winds, and the greatest pleasures bring the greatest pai
 
 The wrongdoer is more unfortunate than the man wronged.
 
+Good means not merely not to do wrong, but rather not to desire to do wrong.
+
 ### Lao Tzu
 
 He who knows, does not speak. He who speaks, does not know.
@@ -99,6 +114,8 @@ No man ever steps in the same river twice, for it's not the same river and he's 
 ### Nelson Mandela
 
 There is no passion to be found in playing small - in settling for a life that is any less than the one you are capable of living.
+
+Courage is not the absence of fear but the triumph over it.
 
 ### Erica Jong
 
