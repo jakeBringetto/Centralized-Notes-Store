@@ -50,6 +50,8 @@ Begin at once to live, and count each separate day as a separate life.
 
 You have power over your mind – not outside events. Realize this, and you will find strength
 
+Our life is what our thoughts make it.
+
 ### Diogenes
 
 I do not know whether there are gods, but there ought to be.
