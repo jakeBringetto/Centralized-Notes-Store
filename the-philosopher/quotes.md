@@ -146,3 +146,7 @@ There are three things all wise men fear: **the sea in storm, a night with no mo
 ### Ninon de L'enclos:
 
 Much more genius is needed to make love than to command armies.
+
+### David Levien
+
+Luck always seems like it belongs to someone else.

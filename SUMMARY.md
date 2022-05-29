@@ -109,3 +109,10 @@
 ## Modernity
 
 * [Irony](modernity/irony.md)
+
+## Languages
+
+* [Landing](languages/landing.md)
+* [Svenska](languages/svenska/README.md)
+  * [Teach Yourself Book](languages/svenska/teach-yourself-book/README.md)
+    * [Chapter 1](languages/svenska/teach-yourself-book/chapter-1.md)
