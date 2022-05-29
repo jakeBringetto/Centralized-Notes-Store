@@ -45,6 +45,10 @@ We suffer more in imagination than in reality.
 Begin at once to live, and count each separate day as a separate life.\
 
 
+### Marcus Aurelius
+
+You have power over your mind – not outside events. Realize this, and you will find strength
+
 ### Diogenes
 
 I do not know whether there are gods, but there ought to be.
@@ -150,3 +154,10 @@ Much more genius is needed to make love than to command armies.
 ### David Levien
 
 Luck always seems like it belongs to someone else.
+
+### Dante Alighieri&#x20;
+
+There is no greater sorrow then to recall our times of joy in wretchedness.
+
+
+
