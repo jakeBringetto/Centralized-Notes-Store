@@ -36,14 +36,15 @@ They certainly give very strange names to diseases.
 
 The price good men pay for indifference to public affairs is to be ruled by evil men
 
+Wise men speak because they have something to say; fools because they have to say something.
+
 ### Seneca
 
 Sometimes even to live is an act of courage.
 
 We suffer more in imagination than in reality.
 
-Begin at once to live, and count each separate day as a separate life.\
-
+Begin at once to live, and count each separate day as a separate life.
 
 ### Marcus Aurelius
 
@@ -57,13 +58,11 @@ It takes a wise man to discover a wise man.
 
 The foundation of every state is the education of its youth.
 
-
-
 ### Rene Descartes
 
 I think therefore I am” (“Cogito, ergo sum”)
 
-#### We do not describe the world we see. We see the world we can describe.
+We do not describe the world we see. We see the world we can describe.
 
 ### Friedrich Nietzsche
 
@@ -85,6 +84,8 @@ Optimism," said Cacambo, "What is that?" "Alas!" replied Candide, "It is the obs
 
 Fools admire everything in an author of reputation.
 
+All is for the best in the best of all possible worlds.
+
 ### Democritus
 
 The brave man is he who overcomes not only his enemies but his pleasures.
@@ -101,15 +102,11 @@ He who knows, does not speak. He who speaks, does not know.
 
 The journey of a thousand miles begins with one step.
 
-The journey of a thousand miles begins with one step.
-
-The journey of a thousand miles begins with one step.
-
 #### Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
 
 ### Blaise Pascal
 
-The journey of a thousand miles begins with one step.
+All men's miseries derive from not being able to sit in a quiet room alone.
 
 ### Heraclitus
 
@@ -159,5 +156,6 @@ Luck always seems like it belongs to someone else.
 
 There is no greater sorrow then to recall our times of joy in wretchedness.
 
+### Immanuel Kant
 
-
+Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness.
