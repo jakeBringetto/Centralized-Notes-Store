@@ -34,7 +34,7 @@ Courage is knowing what not to fear.
 
 They certainly give very strange names to diseases.
 
-
+The price good men pay for indifference to public affairs is to be ruled by evil men
 
 ### Seneca
 
