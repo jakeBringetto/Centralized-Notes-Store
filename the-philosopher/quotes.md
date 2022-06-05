@@ -161,3 +161,10 @@ There is no greater sorrow then to recall our times of joy in wretchedness.
 ### Immanuel Kant
 
 Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness.
+
+### Søren Kierkegaard
+
+Life must be understood backward. But it must be lived forward\
+
+
+\
