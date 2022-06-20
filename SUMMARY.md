@@ -75,6 +75,7 @@
 
 ## The Philosopher
 
+* [Demons](the-philosopher/demons.md)
 * [😎 Quotes](the-philosopher/quotes.md)
 * [The Republic](the-philosopher/the-republic.md)
 * [Aeneid](the-philosopher/aeneid.md)
