@@ -28,6 +28,7 @@
 * [ML Project](ml-foundations/ml-project/README.md)
   * [Dalle e 2](ml-foundations/ml-project/dalle-e-2.md)
   * [GPT-3](ml-foundations/ml-project/gpt-3.md)
+  * [CLIP](ml-foundations/ml-project/clip.md)
 
 ## Research Papers
 

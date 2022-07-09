@@ -6,6 +6,10 @@ description: how it works or sum
 
 ### TOC
 
+{% content-ref url="clip.md" %}
+[clip.md](clip.md)
+{% endcontent-ref %}
+
 {% content-ref url="dalle-e-2.md" %}
 [dalle-e-2.md](dalle-e-2.md)
 {% endcontent-ref %}
