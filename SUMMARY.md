@@ -25,6 +25,9 @@
   * [Linear Algebra](ml-foundations/math-for-ml/linear-algebra/README.md)
     * [Vector Spaces](ml-foundations/math-for-ml/linear-algebra/vector-spaces.md)
   * [Calculus/Optimization](ml-foundations/math-for-ml/calculus-optimization.md)
+* [ML Project](ml-foundations/ml-project/README.md)
+  * [Dalle e 2](ml-foundations/ml-project/dalle-e-2.md)
+  * [GPT-3](ml-foundations/ml-project/gpt-3.md)
 
 ## Research Papers
 
@@ -117,3 +120,7 @@
 * [Svenska](languages/svenska/README.md)
   * [Teach Yourself Book](languages/svenska/teach-yourself-book/README.md)
     * [Chapter 1](languages/svenska/teach-yourself-book/chapter-1.md)
+
+## Misc proj playground
+
+* [Stream of Consciousness](misc-proj-playground/stream-of-consciousness.md)
