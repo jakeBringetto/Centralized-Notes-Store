@@ -18,6 +18,7 @@
 
 ## ML Foundations
 
+* [Diffusion in ML](ml-foundations/diffusion-in-ml.md)
 * [Projection and Least Squares](ml-foundations/projection-and-least-squares.md)
 * [SVD](ml-foundations/svd.md)
 * [PCA](ml-foundations/pca.md)
