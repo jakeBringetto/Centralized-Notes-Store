@@ -126,3 +126,7 @@
 ## Misc proj playground
 
 * [Stream of Consciousness](misc-proj-playground/stream-of-consciousness.md)
+
+## Recruiting Type Beat
+
+* [About](recruiting-type-beat/about.md)
