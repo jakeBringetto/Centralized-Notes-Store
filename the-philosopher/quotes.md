@@ -167,4 +167,8 @@ Morality is not the doctrine of how we may make ourselves happy, but of how we m
 Life must be understood backward. But it must be lived forward\
 
 
+### Ralph Waldo Emerson
+
+To finish the moment, to find the journey’s end in every step of the road, to live the greatest number of good hours, is wisdom
+
 \
