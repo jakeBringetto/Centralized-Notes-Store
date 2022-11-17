@@ -12,4 +12,4 @@ What needs to be done is to step back and ask not "is life too short" but "am I 
 
 ## Music
 
-Pretty good soundcloud mix: [https://soundcloud.com/neszlo/lonely35?si=c1d64d4d8c4a460dbeac45b6eb6e231c\&utm\_source=clipboard\&utm\_medium=text\&utm\_campaign=social\_sharing](https://soundcloud.com/neszlo/lonely35?si=c1d64d4d8c4a460dbeac45b6eb6e231c)
+Pretty good soundcloud mix: [https://soundcloud.com/neszlo/lonely35?si=c1d64d4d8c4a460dbeac45b6eb6e231c\&utm\_source=clipboard\&utm\_medium=text\&utm\_campaign=social\_sharing](https://soundcloud.com/neszlo/lonely35?si=c1d64d4d8c4a460dbeac45b6eb6e231c\&utm\_source=clipboard\&utm\_medium=text\&utm\_campaign=social\_sharing)

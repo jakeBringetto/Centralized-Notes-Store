@@ -134,4 +134,5 @@
 
 ## Geography&#x20;
 
-* [Page 1](geography/page-1.md)
+* [Good Maps](geography/good-maps.md)
+* [Bollards](geography/bollards.md)
