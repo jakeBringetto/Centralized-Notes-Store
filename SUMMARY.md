@@ -131,3 +131,7 @@
 ## Recruiting Type Beat
 
 * [About](recruiting-type-beat/about.md)
+
+## Geography&#x20;
+
+* [Page 1](geography/page-1.md)
