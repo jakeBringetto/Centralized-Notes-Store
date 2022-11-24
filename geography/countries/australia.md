@@ -13,3 +13,7 @@
 ### Vegetation
 
 * Lot of Eucalyptus&#x20;
+
+### Misc
+
+* Trekker = island off coast of Perth
