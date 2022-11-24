@@ -8,6 +8,7 @@
 ### Pole/Sign
 
 * Bollards with red on one side, gray on the other
+* Yellow Diamond signs
 
 ### Vegetation
 
