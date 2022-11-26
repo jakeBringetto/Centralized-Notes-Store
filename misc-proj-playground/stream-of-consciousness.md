@@ -12,5 +12,11 @@ description: Proj brainstorm
   * integrate python backend into dicord.js
   * maybe expand use to chatbot features?
 * Spotify Timeline proj (troll)
+* Spotify playlist guesser
+  * dt done
+  * start svm
+* Audio to audio transformer translation
+  * google translate audio
+  * skip speech to text part
 
 ### Actual cOnTenT
