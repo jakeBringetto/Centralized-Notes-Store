@@ -71,3 +71,48 @@ description: 168 assignment type beat
 * Other services are not explicitly assumed, such as sequences delivery or priority ranking
 * Supporting these extra things in the network was not felt to be great as it required a lot of work
 * Engineering these things at transport layer only has to be done once at each host
+
+### Other Goals
+
+* The other goals were lower priority and thus not as fully met
+* Distributed management of resource has been done well
+  * there are several different router managers
+  * there is a routing algorithm that permits routers from diff managers to exchange tables
+  * managers of routers are not always the same as the manages of the networks that use them
+* There are still issues however with distribution, specifically the tools
+  * routing decisions are constrained by policies, which often involve manual setting of tables
+* Internet is not always cost effective, packet heads can be very large compared to actual data
+* Retransmission is also inefficient as the network doesn't keep track of lost packets
+  * The tradeoffs above made acceptable, especially if loss rates are low
+* Originally implementing protocols at the host was tough for programmers&#x20;
+* Poor implementation of protocols at the hosts may decrease network performance
+* Accountability was in the early states of research at the time of this paper
+
+### Architecture and Implementation
+
+* The Internet was designed very heavily around supporting a variety of services and networks
+* The ability of the internet to support many varieties of realizations leads to much more engineering to be done when actually designing a new realization
+  * It was a struggle to give guidance to engineers working on new realizations
+  * Protocol verifiers ensure specs are met, but never deal with performance issues
+  * These verifiers were much more concerned with verifying logical correctness
+* There was a lack of effective simulators at the time of this paper
+  * engineers were more concerned with the service working that the last squeezing out the maximum efficiency or line utilization
+* The designers felt it was a mistake to only consider logical correctness, but failed to formalize any aspect of performance constraints within the architecture
+
+### Datagrams (Packets)
+
+* Packets eliminate the need for connection state within routers
+* Packets provide a building block for a variety of service types
+* Packets represent the minimum network service assumption
+
+### TCP
+
+* TCP designers thought flow control based on bytes and packets was overly complex
+* They decided to regulate the flow of bytes based on byte number rather than packets
+  * They could insert control info into the sequence space of bytes, though this original idea has been dropped due to the complexity in practice
+  * It permits TCP packets to be broken into smaller segments if needed
+    * This function was later moved to the IP layer
+  * Permits a number of small packets to be gathered into a larger packet
+    * this lead to retransmission being must more effectively than sending many small ones
+  * Packet based has a severe limit on the throughput of small packets
+
