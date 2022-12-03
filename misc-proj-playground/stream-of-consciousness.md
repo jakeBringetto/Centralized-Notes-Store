@@ -18,5 +18,6 @@ description: Proj brainstorm
 * Audio to audio transformer translation
   * google translate audio
   * skip speech to text part
+  * Make interface for real time translation
 
 ### Actual cOnTenT
