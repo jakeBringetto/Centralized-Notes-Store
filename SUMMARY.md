@@ -39,6 +39,7 @@
 * [The Design Philosophy of the DARPA Internet Protocol](research-papers/the-design-philosophy-of-the-darpa-internet-protocol.md)
 * [An Image is Worth 16X16 Words: Transformers For Image Recognition at Scale](research-papers/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale.md)
 * [Castling-ViT: Compressing Self-Attention via Switching Towards Linear-Angular Attention During Visio](research-papers/castling-vit-compressing-self-attention-via-switching-towards-linear-angular-attention-during-visio.md)
+* [Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentatio](research-papers/enhanced-direct-speech-to-speech-translation-using-self-supervised-pre-training-and-data-augmentatio.md)
 
 ## Probability
 
