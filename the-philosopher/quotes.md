@@ -171,4 +171,8 @@ Life must be understood backward. But it must be lived forward\
 
 To finish the moment, to find the journey’s end in every step of the road, to live the greatest number of good hours, is wisdom
 
+### Albert Camus
+
+The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.
+
 \
