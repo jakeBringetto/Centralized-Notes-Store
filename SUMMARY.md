@@ -107,6 +107,7 @@
 ## Everydays
 
 * [December 26, 2021](everydays/december-26-2021.md)
+* [December 26, 2022](everydays/december-26-2022.md)
 
 ## The Poet
 
@@ -142,3 +143,7 @@
 * [Bollards](geography/bollards.md)
 * [Countries](geography/countries/README.md)
   * [Australia](geography/countries/australia.md)
+
+## Theology
+
+* [Christian Athiesm](theology/christian-athiesm.md)
