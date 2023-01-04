@@ -10,3 +10,11 @@ The goal of a diffusion model is to be able to recover useful information from a
 
 More Here: [https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
+### Details
+
+You should read the note on generative models first lowkey:
+
+{% content-ref url="generative-models.md" %}
+[generative-models.md](generative-models.md)
+{% endcontent-ref %}
+

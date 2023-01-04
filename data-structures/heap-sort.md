@@ -14,13 +14,13 @@ description: >-
 
 #### Heap Sort Description
 
-Heap sort is a method of sorting that takes advantage of the max heap data structure.  Conceptually, the heap sort procedure is to put all elements in a collection into a max heap using the heap rules (see "heaps" for more).  Next, the max item it removed from the max heap and put at the end of a new collection.  The heap is reformatted appropriately, and the procedure is repeated n times for n elements.
+Heap sort is a method of sorting that takes advantage of the max heap data structure. Conceptually, the heap sort procedure is to put all elements in a collection into a max heap using the heap rules (see "heaps" for more). Next, the max item it removed from the max heap and put at the end of a new collection. The heap is reformatted appropriately, and the procedure is repeated n times for n elements.
 
 #### Heap Sort Time/Space Complexity Analysis
 
-The runtime of heap sort follows closely with the runtime of creating and removing from a heap.  When building the heap each item is considered once to put into the heap.  Then, while inserting into the heap, a max of log(n) levels must be visited before insertion.  While removing there are again n elements to remove, and the levels of the heap amount to max log(n).  Thus it follows that the time complexity of heap sort is O(n log n).&#x20;
+The runtime of heap sort follows closely with the runtime of creating and removing from a heap. When building the heap each item is considered once to put into the heap. Then, while inserting into the heap, a max of log(n) levels must be visited before insertion. While removing there are again n elements to remove, and the levels of the heap amount to max log(n). Thus it follows that the time complexity of heap sort is O(n log n).
 
-When considering the space complexity it can be observed that an entire max heap must be constructed and kept in memory.  This means at least linear space is required for heap sort, plus some possible extra memory allocated to pointers between nodes, etc.  One possible way to get rid of this extra memory is to do heap sort in place.  Instead of making a new heap, the elements are of the heap are represented in their array representation (see "heaps" for more).  Again, the runtime is kept at O(n log n), but the space is reduces to be constant.
+When considering the space complexity it can be observed that an entire max heap must be constructed and kept in memory. This means at least linear space is required for heap sort, plus some possible extra memory allocated to pointers between nodes, etc. One possible way to get rid of this extra memory is to do heap sort in place. Instead of making a new heap, the elements are of the heap are represented in their array representation (see "heaps" for more). Again, the runtime is kept at O(n log n), but the space is reduces to be constant.
 
 #### Heap Sort Java Implementation:
 
@@ -96,7 +96,6 @@ public class HeapSort {
 		printArray(arr);
 	}
 }
-
 ```
 
 #### Heap Sort Drawbacks/Why don't we regularly use Heap Sort?

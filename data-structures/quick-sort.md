@@ -4,7 +4,7 @@ description: Quick sort is the fastest sorting algorithm (seen empirically).
 
 # Quick Sort
 
-The idea behind quick sort is to create partitions.  After creating a partition, all elements that are smaller are put on the left and elements greater are put on the right.  This swapping process occurs in O(k), where k is the amount of active elements.  The important thing to note about quick sort is that is closely recreates the process of making a BST.  This means that at best quick sort is O(N log N), but at worst it is (N^2).  The way to mitigate the chances of getting N^2 is to pick "good" pivot points.  This can be done by randomization of by a deterministic method like choosing the median.&#x20;
+The idea behind quick sort is to create partitions. After creating a partition, all elements that are smaller are put on the left and elements greater are put on the right. This swapping process occurs in O(k), where k is the amount of active elements. The important thing to note about quick sort is that is closely recreates the process of making a BST. This means that at best quick sort is O(N log N), but at worst it is (N^2). The way to mitigate the chances of getting N^2 is to pick "good" pivot points. This can be done by randomization of by a deterministic method like choosing the median.
 
 ```
 // Java implementation of QuickSort
@@ -97,9 +97,8 @@ public static void main(String[] args)
 }
 
 // This code is contributed by Ayush Choudhary
-
 ```
 
-## Hoare Partitioning&#x20;
+## Hoare Partitioning
 
-This is a common partitioning scheme in which the leftmost element is the pivot.  Two pointers on the right and left scan the list in opposite order.  The left pointer looks for elements  smaller than the pivot, right looks for bigger.  If they find elements they do not like then they swap. We swap the pivot with the right pointer to finish.&#x20;
+This is a common partitioning scheme in which the leftmost element is the pivot. Two pointers on the right and left scan the list in opposite order. The left pointer looks for elements smaller than the pivot, right looks for bigger. If they find elements they do not like then they swap. We swap the pivot with the right pointer to finish.

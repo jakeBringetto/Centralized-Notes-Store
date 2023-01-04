@@ -30,6 +30,7 @@
   * [Dalle e 2](ml-foundations/ml-project/dalle-e-2.md)
   * [GPT-3](ml-foundations/ml-project/gpt-3.md)
   * [CLIP](ml-foundations/ml-project/clip.md)
+* [Generative Models](ml-foundations/generative-models.md)
 
 ## Research Papers
 
@@ -147,3 +148,8 @@
 ## Theology
 
 * [Christian Athiesm](theology/christian-athiesm.md)
+
+## Lecture Notes
+
+* [CS 182](lecture-notes/cs-182/README.md)
+  * [Recap of Standard ML Doctrine](lecture-notes/cs-182/recap-of-standard-ml-doctrine.md)
