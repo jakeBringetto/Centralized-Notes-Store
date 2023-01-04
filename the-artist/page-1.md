@@ -12,7 +12,7 @@ Beeple's main project is the "everydays", which is a collection in which he crea
 
 The discussion on whether this is metamodernism begins with defining beeple's goal. The art seems to be satirical, but it is so covered in sarcasm that it is clearly an attack on the subject. for example:&#x20;
 
-![Beeple's feeding time](<../.gitbook/assets/image (2).png>)
+![Beeple's feeding time](<../.gitbook/assets/image (2) (1).png>)
 
 This certainly seems to be satire, but it is so obvious that it's not some clever, subtle commentary. Yet, there seems to be a nuanced hint of reductio ad absurdum. By reducing matters to complete absurdum, there is an aspect of trying to better society through thoughtful reminder that the world is in a crazy place. It is our job to be enlightened to the ridiculous, which beeple does do. So, is this modernism? Is it post-modernism? Is it meta-modernism? Maybe, but it may also just be a bunch of expensive nonsense. However, I like to this of this as capturing whatever you call this emerging genre of post-ironic art. The genre that consists of internet memes, absurd digital art, and bizarre animations. It doesn't seem to fall under the category of "fine art", but it is definitely part of modern (or meta-modern if you will) culture. I like to think of people 100 years in the future, staring a class studying Da Vinci, and finishing with Beeple. But then again, their art is probably even more post-post-post-post-post-modern, so I'm sure they can handle it.
 
