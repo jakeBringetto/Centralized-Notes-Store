@@ -129,6 +129,8 @@
 * [Svenska](languages/svenska/README.md)
   * [Teach Yourself Book](languages/svenska/teach-yourself-book/README.md)
     * [Chapter 1](languages/svenska/teach-yourself-book/chapter-1.md)
+* [English](languages/english/README.md)
+  * [Obscure Sorrows](languages/english/obscure-sorrows.md)
 
 ## Misc proj playground
 
