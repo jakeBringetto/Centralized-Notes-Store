@@ -40,7 +40,7 @@ For our desired distribution, we want it to be continuous, easy to sample from, 
 
 The next question is, how do we compare two distributions? In other words, how do we compute the loss in part 2 of the steps above? One loss function we can use is known as KL Divergence:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 In the bottom line we can observe the KL Divergence of our sample distribution Q and standard normal. TBH deriving this equation is a pain, but the important part is that we get something pretty easy to use in gradient based methods -- pytorch won't give a singular hoot about this. Now, we must parameterize Q so that gradient methods work. Luckily, normal distributions are defined completely by the first two moments, so all we need to do is learn the mean and covariance matrix (square root covariance matrix for computation purposes). Overall, our new picture of a variational autoencoder looks like this:
 
@@ -48,7 +48,7 @@ In the bottom line we can observe the KL Divergence of our sample distribution Q
 
 #### Diffusion
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 Diffusion takes concepts from VAEs and also from the iterative denoising process we've seen before.  In the forward process we start with real samples and iteratively add noise:
 

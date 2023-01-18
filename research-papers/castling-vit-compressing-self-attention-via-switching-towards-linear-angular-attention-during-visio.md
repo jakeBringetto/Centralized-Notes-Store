@@ -73,7 +73,7 @@ $$
 V' = Sim(Q, K) \cdot V \approx 1/2 \cdot V + \dfrac{1}{\pi}Q \cdot(K^T \cdot V) + M_{DW} \cdot V + M_{SparseAtt} \cdot V
 $$
 
-Note that M\_DW approximates the high order terms from above. M\_SparseAtt is another matrix learned in training that is very sparse. In fact, most of the values tend to be 0, more on that can be found in the paper.
+Note that M\_DW approximates the high order terms from above using a depthwise convolution. M\_SparseAtt is another matrix learned in training that is very sparse. In fact, most of the values tend to be 0, more on that can be found in the paper.
 
 Another thing to note is that above we don't see the normalization we above. This is still done using a normalization kernel that works very efficiently, however it is left out for simplicity.&#x20;
 
@@ -81,7 +81,11 @@ The main take-away from the above equation is that we can compute all terms in l
 
 #### Sparse Attention&#x20;
 
-During inference the authors only use spectral angle attention to capture similarity, however they keep soft-max attention during training. They do this with the sparse matrix seen above. Essentially, it is standard soft-max attention but we only pass values if they are bigger than some threshold we set as a hyper-parameter. The effect this has is that it captures some of the higher order terms that we may miss in spectral angle attention. Additionally, making it sparse&#x20;
+During inference the authors only use spectral angle attention to capture similarity, however they keep soft-max attention during training. They do this with the sparse matrix seen above. Essentially, it is standard soft-max attention but we only pass values if they are bigger than some threshold we set as a hyper-parameter. The effect this has is that it captures some of the higher order terms that we may miss in spectral angle attention. Additionally, making it sparse has the effect of only selecting strong local features. So the idea is that we add terms we missed, but only if they are strong features. Then in inference we remove the soft-max architecture and only use the   spectral angle attention.
+
+#### Architecture
+
+![](../.gitbook/assets/image.png)
 
 
 
