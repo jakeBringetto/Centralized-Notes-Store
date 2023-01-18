@@ -26,5 +26,32 @@ Their are two main strategies that I will discuss that are deployed by the autho
 
 Note that this section is taken from my cs182 project that delves deeply into this spectral angle based attention. More on that found here:
 
-We begin by recalling that similarity between vectors can be captured with the angle between two vectors using trigonometry.
+We begin by recalling that similarity between vectors can be captured with the angle between two vectors using trigonometry:
+
+$$
+\theta(x, y) = \arccos(\dfrac{x^Ty}{\|x\|\|y\|})
+$$
+
+Using this, we can define a new similarity function:
+
+$$
+sim(q, k) = 1 - \dfrac{1}{\pi}\theta(q, k)
+$$
+
+Now we can explore some of the properties of this new feature space created by the implicit kernel. We'll see some rather interesting observations when we delve deeper into this.
+
+Let's first look at the magnitude of a vector projected into the implicit feature space:
+
+$$
+\|\phi(x)\|^2 = \phi(x)^T\phi(x) = sim(x, x) = 1 - \dfrac{1}{\pi}\cdot0
+=1
+$$
+
+This is an interesting result because we see that the magnitude of a vector in the implicit feature space is always 1 - meaning that all points lie on a sphere of radius 1.
+
+Next, let's consider the euclidean distance between two vectors in feature space:
+
+
+
+
 
