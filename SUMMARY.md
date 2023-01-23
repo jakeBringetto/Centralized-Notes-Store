@@ -127,6 +127,8 @@
 
 * [Landing](languages/landing.md)
 * [Svenska](languages/svenska/README.md)
+  * [Dagbok](languages/svenska/dagbok/README.md)
+    * [01/22/23](languages/svenska/dagbok/01-22-23.md)
   * [Teach Yourself Book](languages/svenska/teach-yourself-book/README.md)
     * [Chapter 1](languages/svenska/teach-yourself-book/chapter-1.md)
 * [English](languages/english/README.md)
