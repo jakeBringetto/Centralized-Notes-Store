@@ -179,4 +179,8 @@ The only way to deal with an unfree world is to become so absolutely free that y
 
 There are certain queer times and occasions in the strange mixed affair we call life when a make takes this whole universe as a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the joke is at nobody's expense but his own.
 
+### Stephan Chbosky
+
+We accept the love we think we deserve
+
 \
