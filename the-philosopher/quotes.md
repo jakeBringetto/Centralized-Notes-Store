@@ -187,6 +187,10 @@ We accept the love we think we deserve
 
 If I loved you less, I might be able to talk about it more
 
+### Oscar Wilde
+
+There are only two tragedies in life: One is not getting what one wants, and the other is getting it.
+
 
 
 \
