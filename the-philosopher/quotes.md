@@ -52,6 +52,8 @@ You have power over your mind – not outside events. Realize this, and you will
 
 Our life is what our thoughts make it.
 
+Everyone gets on life. Yours is almost used up and instead of treating yourself with respect, you have entrusted your own happiness to the souls of others.
+
 ### Diogenes
 
 I do not know whether there are gods, but there ought to be.
