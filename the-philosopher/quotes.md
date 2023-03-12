@@ -160,6 +160,8 @@ Luck always seems like it belongs to someone else.
 
 There is no greater sorrow then to recall our times of joy in wretchedness.
 
+You shall find out how salt is the taste of another man's bread, and how hard is the way up and down another man's stairs.
+
 ### Immanuel Kant
 
 Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness.
