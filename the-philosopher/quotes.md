@@ -162,6 +162,10 @@ There is no greater sorrow then to recall our times of joy in wretchedness.
 
 You shall find out how salt is the taste of another man's bread, and how hard is the way up and down another man's stairs.
 
+The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality.
+
+I love to doubt as well as know.
+
 ### Immanuel Kant
 
 Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness.
