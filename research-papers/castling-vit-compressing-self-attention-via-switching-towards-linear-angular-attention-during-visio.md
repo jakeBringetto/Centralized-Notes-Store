@@ -85,7 +85,7 @@ During inference the authors only use spectral angle attention to capture simila
 
 #### Architecture
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 
 

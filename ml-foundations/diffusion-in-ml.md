@@ -24,7 +24,7 @@ We start with the idea of using a denoising autencoder:
 
 We see that this is too hard in practice; it doesn't work well because all noise is added at once. This leads us to the second idea, which is to incrementally add noise and learn many stages of denoising so that we don't have to recover everything at once:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 This is getting closer, but it turns out it still doesn't work. Why? All the denoising happens at the last timestep (first encoder-decoder), the rest is effectively no random. So what do we try next? Add noise during training!&#x20;
 
