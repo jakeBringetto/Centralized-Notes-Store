@@ -15,3 +15,7 @@ And that makes me happy. For it says that no matter how hard the world pushes ag
 Falsely yours,\
 Albert Camus
 ------------
+
+## Because I don't have original thought:
+
+![](../.gitbook/assets/image.png)
