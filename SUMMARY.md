@@ -100,6 +100,7 @@
 
 * [School of Athens](the-artist/school-of-athens.md)
 * [Beeple (NFTs and digital art)](the-artist/page-1.md)
+* [Stanczyk](the-artist/stanczyk.md)
 
 ## The real questions
 
