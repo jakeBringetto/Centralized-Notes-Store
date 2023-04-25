@@ -164,3 +164,8 @@
   * [Generative Models 1](lecture-notes/cs-182/generative-models-1.md)
   * [Generative Models 2](lecture-notes/cs-182/generative-models-2.md)
   * [Generative Models 3](lecture-notes/cs-182/generative-models-3.md)
+
+## AGI and Safety
+
+* [Max Tegmark's Open letter](agi-and-safety/max-tegmarks-open-letter.md)
+* [Coevolution](agi-and-safety/coevolution.md)
