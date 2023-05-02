@@ -96,6 +96,7 @@
   * [Meditations](the-philosopher/stoicism/meditations.md)
 * [Animalism](the-philosopher/animalism.md)
 * [all that noise and all that sound](the-philosopher/all-that-noise-and-all-that-sound.md)
+* [Absurdism](the-philosopher/absurdism.md)
 
 ## The Artist
 
