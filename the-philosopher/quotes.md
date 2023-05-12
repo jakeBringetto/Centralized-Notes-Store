@@ -46,6 +46,8 @@ We suffer more in imagination than in reality.
 
 Begin at once to live, and count each separate day as a separate life.
 
+There is no easy way from the earth to the stars
+
 ### Marcus Aurelius
 
 You have power over your mind – not outside events. Realize this, and you will find strength
