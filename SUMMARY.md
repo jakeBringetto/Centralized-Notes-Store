@@ -114,6 +114,7 @@
 
 * [December 26, 2021](everydays/december-26-2021.md)
 * [December 26, 2022](everydays/december-26-2022.md)
+* [July 2, 2023](everydays/july-2-2023.md)
 
 ## The Poet
 
