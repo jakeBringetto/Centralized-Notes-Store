@@ -162,8 +162,23 @@
 
 ## Lecture Notes
 
+* [CS 189](lecture-notes/cs-189/README.md)
+  * [Linear Classifiers](lecture-notes/cs-189/linear-classifiers.md)
+  * [Gradient Descent, Hard Margin SVM](lecture-notes/cs-189/gradient-descent-hard-margin-svm.md)
+  * [Soft Margin SVM, Feature Maps](lecture-notes/cs-189/soft-margin-svm-feature-maps.md)
+  * [Abstraction, Optimization Algorithms](lecture-notes/cs-189/abstraction-optimization-algorithms.md)
+  * [Decision Theory, Generative vs Discriminative Models](lecture-notes/cs-189/decision-theory-generative-vs-discriminative-models.md)
+  * [QDA, LDA, MLE of Parameters](lecture-notes/cs-189/qda-lda-mle-of-parameters.md)
+  * [Anisotropic Gaussians](lecture-notes/cs-189/anisotropic-gaussians.md)
+  * [Regression Overview](lecture-notes/cs-189/regression-overview.md)
+  * [Newton's Method, Logistic Regression](lecture-notes/cs-189/newtons-method-logistic-regression.md)
+  * [Statistical Justification for Regression](lecture-notes/cs-189/statistical-justification-for-regression.md)
+  * [Page 5](lecture-notes/cs-189/page-5.md)
 * [CS 182](lecture-notes/cs-182/README.md)
   * [Recap of Standard ML Doctrine](lecture-notes/cs-182/recap-of-standard-ml-doctrine.md)
+  * [Basic Principles 1](lecture-notes/cs-182/basic-principles-1.md)
+  * [Basic Principles 2](lecture-notes/cs-182/basic-principles-2.md)
+  * [Problems and Architectures](lecture-notes/cs-182/problems-and-architectures.md)
   * [Generative Models 1](lecture-notes/cs-182/generative-models-1.md)
   * [Generative Models 2](lecture-notes/cs-182/generative-models-2.md)
   * [Generative Models 3](lecture-notes/cs-182/generative-models-3.md)
