@@ -159,6 +159,7 @@
 ## Theology
 
 * [Christian Athiesm](theology/christian-athiesm.md)
+* [Omnism](theology/omnism.md)
 
 ## Lecture Notes
 
