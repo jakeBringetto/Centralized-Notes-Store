@@ -188,3 +188,7 @@
 
 * [Max Tegmark's Open letter](agi-and-safety/max-tegmarks-open-letter.md)
 * [Coevolution](agi-and-safety/coevolution.md)
+
+## Group 1
+
+* [Python Django App](group-1/python-django-app.md)
