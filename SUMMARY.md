@@ -98,6 +98,9 @@
 * [Animalism](the-philosopher/animalism.md)
 * [all that noise and all that sound](the-philosopher/all-that-noise-and-all-that-sound.md)
 * [Absurdism](the-philosopher/absurdism.md)
+* [Knowledge](the-philosopher/knowledge/README.md)
+  * [The Moral Obligation to be Intelligent](the-philosopher/knowledge/the-moral-obligation-to-be-intelligent.md)
+  * [The Death of the Renaissance Man](the-philosopher/knowledge/the-death-of-the-renaissance-man.md)
 
 ## The Artist
 
@@ -140,6 +143,7 @@
     * [Chapter 1](languages/svenska/teach-yourself-book/chapter-1.md)
 * [English](languages/english/README.md)
   * [Obscure Sorrows](languages/english/obscure-sorrows.md)
+  * [Linguist Makes a Sensational Claim](languages/english/linguist-makes-a-sensational-claim.md)
 
 ## Misc proj playground
 
