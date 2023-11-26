@@ -132,6 +132,7 @@
 ## Modernity
 
 * [Irony](modernity/irony.md)
+* [Metamodernity](modernity/metamodernity.md)
 
 ## Languages
 
