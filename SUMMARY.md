@@ -101,6 +101,7 @@
 * [Knowledge](the-philosopher/knowledge/README.md)
   * [The Moral Obligation to be Intelligent](the-philosopher/knowledge/the-moral-obligation-to-be-intelligent.md)
   * [The Death of the Renaissance Man](the-philosopher/knowledge/the-death-of-the-renaissance-man.md)
+* [On the Nature of the Universe](the-philosopher/on-the-nature-of-the-universe.md)
 
 ## The Artist
 
@@ -121,6 +122,7 @@
 
 ## The Poet
 
+* [Eyes of Sorrow](the-poet/eyes-of-sorrow.md)
 * [Minecraft End Poem](the-poet/minecraft-end-poem.md)
 * [When I Heard the Learn'd Astronomer](the-poet/when-i-heard-the-learnd-astronomer.md)
 * [O Captain! My Captain!](the-poet/o-captain-my-captain.md)
