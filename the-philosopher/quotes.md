@@ -217,6 +217,8 @@ Man is a mystery. It needs to be unravelled, and if you spend your whole life un
 
 Can a man of perception respect himself at all.
 
+There is only one thing that I dread: not to be worthy of my sufferings.
+
 
 
 \
