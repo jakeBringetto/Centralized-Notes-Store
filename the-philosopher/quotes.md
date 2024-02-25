@@ -219,6 +219,8 @@ Can a man of perception respect himself at all.
 
 There is only one thing that I dread: not to be worthy of my sufferings.
 
+I exist. In thousands of agonies — I exist. I’m tormented on the rack — but I exist! Though I sit alone in a pillar — I exist! I see the sun, and if I don’t see the sun, I know it’s there. And there’s a whole life in that, in knowing that the sun is there.
+
 
 
 \
