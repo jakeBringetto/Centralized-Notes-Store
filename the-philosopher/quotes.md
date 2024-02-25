@@ -201,6 +201,22 @@ If I loved you less, I might be able to talk about it more
 
 There are only two tragedies in life: One is not getting what one wants, and the other is getting it.
 
+### Fyodor Dostoevsky
+
+Man is sometimes extraordinarily, passionately, in love with suffering.
+
+Man only likes to count his troubles; he doesn't calculate his happiness.
+
+What is hell? I maintain that is the suffering of being unable to love.
+
+Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.
+
+Much unhappiness has come into the world because of bewilderment and things left unsaid.
+
+Man is a mystery. It needs to be unravelled, and if you spend your whole life unravelling it, don't say that you've wasted time. I am studying that mystery because I want to be a human being.
+
+Can a man of perception respect himself at all.
+
 
 
 \
