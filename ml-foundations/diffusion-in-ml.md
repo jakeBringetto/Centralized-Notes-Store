@@ -44,7 +44,7 @@ The next question is, how do we compare two distributions? In other words, how d
 
 In the bottom line we can observe the KL Divergence of our sample distribution Q and standard normal. TBH deriving this equation is a pain, but the important part is that we get something pretty easy to use in gradient based methods -- pytorch won't give a singular hoot about this. Now, we must parameterize Q so that gradient methods work. Luckily, normal distributions are defined completely by the first two moments, so all we need to do is learn the mean and covariance matrix (square root covariance matrix for computation purposes). Overall, our new picture of a variational autoencoder looks like this:
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 #### Diffusion
 

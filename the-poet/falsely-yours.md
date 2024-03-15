@@ -17,4 +17,4 @@ Albert Camus
 
 ## Because I don't have original thought:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)

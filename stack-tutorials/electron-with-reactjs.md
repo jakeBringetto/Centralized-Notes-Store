@@ -21,7 +21,11 @@ description: Setup and basics for electron with react for desktop applications.
 ### Misc
 
 * Able to access low lever OS fns
-* Expose low lever API into the browser frame
-  * `preload.js` -> inform Browser window of file
-  * `const { ipcRenderer, contextBridge } = require('electron')`
-  *
+*   Expose low lever API into the browser frame
+
+    * `preload.js` -> inform Browser window of file
+    * `const { ipcRenderer, contextBridge } = require('electron')`
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
