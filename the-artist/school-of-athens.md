@@ -4,7 +4,7 @@ description: pretty cool work by Raphael
 
 # School of Athens
 
-![Raphael's School of Athens](<../.gitbook/assets/image (1) (1) (1).png>)
+![Raphael's School of Athens](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Content
 

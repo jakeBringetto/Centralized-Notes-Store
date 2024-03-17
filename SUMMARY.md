@@ -196,7 +196,8 @@
 * [Max Tegmark's Open letter](agi-and-safety/max-tegmarks-open-letter.md)
 * [Coevolution](agi-and-safety/coevolution.md)
 
-## Stack Tutorials
+## Dev Notes
 
-* [Electron with ReactJs](stack-tutorials/electron-with-reactjs.md)
-* [Python Django App](stack-tutorials/python-django-app.md)
+* [Authentication](dev-notes/authentication.md)
+* [Electron with ReactJs](dev-notes/electron-with-reactjs.md)
+* [Python Django App](dev-notes/python-django-app.md)
