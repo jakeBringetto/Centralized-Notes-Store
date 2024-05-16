@@ -92,6 +92,8 @@ Fools admire everything in an author of reputation.
 
 All is for the best in the best of all possible worlds.
 
+I have wanted to kill myself a hundred times, but somehow I am still in love with life. This ridiculous weakness is perhaps one of our more stupid melancholy propensities, for is there anything more stupid than to be eager to go on carrying a burden which one would gladly throw away, to loathe one’s very being and yet to hold it fast, to fondle the snake that devours us until it has eaten our hearts away?
+
 ### Democritus
 
 The brave man is he who overcomes not only his enemies but his pleasures.
@@ -221,6 +223,7 @@ There is only one thing that I dread: not to be worthy of my sufferings.
 
 I exist. In thousands of agonies — I exist. I’m tormented on the rack — but I exist! Though I sit alone in a pillar — I exist! I see the sun, and if I don’t see the sun, I know it’s there. And there’s a whole life in that, in knowing that the sun is there.
 
+### Sylvia Path
 
+Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.
 
-\
