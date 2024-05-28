@@ -202,6 +202,7 @@
   * [Frontend Setup](dev-notes/openmrs/frontend-setup.md)
   * [Data Model](dev-notes/openmrs/data-model.md)
   * [Key Components](dev-notes/openmrs/key-components.md)
+  * [🐎 General Dev Flow](dev-notes/openmrs/general-dev-flow.md)
 * [Authentication](dev-notes/authentication.md)
 * [Electron with ReactJs](dev-notes/electron-with-reactjs.md)
 * [Python Django App](dev-notes/python-django-app.md)
