@@ -34,6 +34,7 @@
 
 ## Research Papers
 
+* [Fast Model Editing at Scale](research-papers/fast-model-editing-at-scale.md)
 * [Statistical Modeling: the two Cultures](research-papers/statistical-modeling-the-two-cultures.md)
 * [Kernel-based Outlier Detection using the Inverse Christoffel Function](research-papers/kernel-based-outlier-detection-using-the-inverse-christoffel-function.md)
 * [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](research-papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics.md)
