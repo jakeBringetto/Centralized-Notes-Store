@@ -199,6 +199,7 @@
 
 ## Dev Notes
 
+* [RAGS on FHIR w Knowledge Graphs](dev-notes/rags-on-fhir-w-knowledge-graphs.md)
 * [openMRS](dev-notes/openmrs/README.md)
   * [Frontend Setup](dev-notes/openmrs/frontend-setup.md)
   * [Data Model](dev-notes/openmrs/data-model.md)
