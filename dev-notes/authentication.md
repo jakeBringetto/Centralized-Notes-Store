@@ -22,7 +22,7 @@ description: frontend + backend authentication tutorial
 * Authentication: process of verifying the identity of an entity and confirming the authenticity of the rights claimed by that entity
 * Access control: process of defining a list of permissible operations and determining whether an operation is allowed or prohibited
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Frontend authentication methods
 

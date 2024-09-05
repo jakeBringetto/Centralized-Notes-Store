@@ -26,6 +26,6 @@ description: Setup and basics for electron with react for desktop applications.
     * `preload.js` -> inform Browser window of file
     * `const { ipcRenderer, contextBridge } = require('electron')`
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
