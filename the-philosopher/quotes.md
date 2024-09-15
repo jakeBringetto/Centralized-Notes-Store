@@ -110,6 +110,8 @@ He who knows, does not speak. He who speaks, does not know.
 
 The journey of a thousand miles begins with one step.
 
+Do you have the patience to wait until your mud settles and the water is clear?
+
 #### Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
 
 ### Blaise Pascal
@@ -176,8 +178,7 @@ Morality is not the doctrine of how we may make ourselves happy, but of how we m
 
 ### Søren Kierkegaard
 
-Life must be understood backward. But it must be lived forward\
-
+Life must be understood backward. But it must be lived forward
 
 ### Ralph Waldo Emerson
 
@@ -226,4 +227,10 @@ I exist. In thousands of agonies — I exist. I’m tormented on the rack — bu
 ### Sylvia Path
 
 Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.
+
+### Jorge Luis Borges
+
+I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.
+
+
 
