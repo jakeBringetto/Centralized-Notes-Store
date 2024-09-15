@@ -228,6 +228,12 @@ I exist. In thousands of agonies — I exist. I’m tormented on the rack — bu
 
 Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.
 
+I am a victim of introspection.
+
+I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited.
+
+I talk to God but the sky is empty.
+
 ### Jorge Luis Borges
 
 I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.
