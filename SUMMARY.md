@@ -133,6 +133,7 @@
 * [The Road not Taken](the-poet/the-road-not-taken.md)
 * [A Universe of Atoms, An Atom In The Universe](the-poet/a-universe-of-atoms-an-atom-in-the-universe.md)
 * [Falsely Yours](the-poet/falsely-yours.md)
+* [The Definition of Love](the-poet/the-definition-of-love.md)
 
 ## Modernity
 
