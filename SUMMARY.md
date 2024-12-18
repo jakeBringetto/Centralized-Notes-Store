@@ -125,6 +125,7 @@
 
 ## The Poet
 
+* [So Many Reports. So Many Questions.](the-poet/so-many-reports.-so-many-questions..md)
 * [Eyes of Sorrow](the-poet/eyes-of-sorrow.md)
 * [Minecraft End Poem](the-poet/minecraft-end-poem.md)
 * [When I Heard the Learn'd Astronomer](the-poet/when-i-heard-the-learnd-astronomer.md)
