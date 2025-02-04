@@ -212,3 +212,7 @@
 * [Authentication](dev-notes/authentication.md)
 * [Electron with ReactJs](dev-notes/electron-with-reactjs.md)
 * [Python Django App](dev-notes/python-django-app.md)
+
+## The Director
+
+* [Day in the Life of an Amazon SWE](the-director/day-in-the-life-of-an-amazon-swe.md)
