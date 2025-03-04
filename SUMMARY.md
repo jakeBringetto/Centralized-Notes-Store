@@ -216,3 +216,7 @@
 ## The Director
 
 * [Day in the Life of an Amazon SWE](the-director/day-in-the-life-of-an-amazon-swe.md)
+
+## The Author
+
+* [A year in the PNW](the-author/a-year-in-the-pnw.md)
