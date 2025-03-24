@@ -63,3 +63,11 @@
 * Ideological purity is not naïve—it is a direction in a high-dimensional space.
 * The challenge is not whether ideals "work," but how they interact with reality through imperfect projections.
 * We advocate for a new mode of political analysis: understanding ideological failure as a mathematical, structural problem, and striving to build better projection architectures.
+
+**References**
+
+* Hinich, M. J., & Munger, M. C. (1994). _Ideology and the Theory of Political Choice_. University of Michigan Press.
+* Scott, J. C. (1998). _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. Yale University Press.
+* Beer, S. (1972). _Brain of the Firm: The Managerial Cybernetics of Organization_. Allen Lane.
+* Poole, K. T., & Rosenthal, H. (1997). _Congress: A Political-Economic History of Roll Call Voting_. Oxford University Press.
+* Inglehart, R., & Welzel, C. (2005). _Modernization, Cultural Change, and Democracy: The Human Development Sequence_. Cambridge University Press.
