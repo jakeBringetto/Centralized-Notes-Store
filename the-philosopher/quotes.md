@@ -234,6 +234,10 @@ I can never read all the books I want; I can never be all the people I want and 
 
 I talk to God but the sky is empty.
 
+### Franz Kafka
+
+I was ashamed of myself when I realized life was a costume party, and I attended with my real face
+
 ### Jorge Luis Borges
 
 I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.
