@@ -47,6 +47,8 @@
 * [Monte Carlo Localization: Efficient Position Estimation for Mobile Robots](research-papers/monte-carlo-localization-efficient-position-estimation-for-mobile-robots.md)
 * [Meta-Learning with Task-Adaptive Loss Fn for Few-Shot Learning](research-papers/meta-learning-with-task-adaptive-loss-fn-for-few-shot-learning.md)
 * [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](research-papers/drag-your-gan-interactive-point-based-manipulation-on-the-generative-image-manifold.md)
+* [NoMad-Attention](research-papers/nomad-attention.md)
+* [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](research-papers/deepdive-advancing-deep-search-agents-with-knowledge-graphs-and-multi-turn-rl.md)
 
 ## Probability
 
