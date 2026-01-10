@@ -94,6 +94,7 @@
 
 ## The Philosopher
 
+* [Famine, Affluence, and Morality](the-philosopher/famine-affluence-and-morality.md)
 * [Demons](the-philosopher/demons.md)
 * [😎 Quotes](the-philosopher/quotes.md)
 * [The Republic](the-philosopher/the-republic.md)

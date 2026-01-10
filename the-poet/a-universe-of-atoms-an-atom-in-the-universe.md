@@ -5,10 +5,10 @@ description: Feynman Type Beat
 # A Universe of Atoms, An Atom In The Universe
 
 _There are the rushing waves_\
-_mountains of molecules_\
-_each stupidly minding its own business_\
-_trillions apart_\
-_yet forming white surf in unison_
+&#xNAN;_&#x6D;ountains of molecules_\
+&#xNAN;_&#x65;ach stupidly minding its own business_\
+&#xNAN;_&#x74;rillions apart_\
+&#xNAN;_&#x79;et forming white surf in unison_
 
 Ages on ages\
 before any eyes could see\
