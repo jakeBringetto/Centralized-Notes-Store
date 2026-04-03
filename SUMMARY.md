@@ -22,10 +22,6 @@
 * [Projection and Least Squares](ml-foundations/projection-and-least-squares.md)
 * [SVD](ml-foundations/svd.md)
 * [PCA](ml-foundations/pca.md)
-* [Math for ML](ml-foundations/math-for-ml/README.md)
-  * [Linear Algebra](ml-foundations/math-for-ml/linear-algebra/README.md)
-    * [Vector Spaces](ml-foundations/math-for-ml/linear-algebra/vector-spaces.md)
-  * [Calculus/Optimization](ml-foundations/math-for-ml/calculus-optimization.md)
 * [ML Project](ml-foundations/ml-project/README.md)
   * [Dalle e 2](ml-foundations/ml-project/dalle-e-2.md)
   * [GPT-3](ml-foundations/ml-project/gpt-3.md)
@@ -203,6 +199,12 @@
 
 * [Max Tegmark's Open letter](agi-and-safety/max-tegmarks-open-letter.md)
 * [Coevolution](agi-and-safety/coevolution.md)
+
+## General Math
+
+* [Financial Math](general-math/financial-math/README.md)
+  * [Black-Scholes Model](general-math/financial-math/black-scholes-model.md)
+* [ML Math](general-math/ml-math.md)
 
 ## Dev Notes
 

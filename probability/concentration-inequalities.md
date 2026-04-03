@@ -9,7 +9,7 @@ description: Overview of Markov's, Chebyshev's, etc.
 #### Theorem:
 
 $$
-P[X \geq c] \leq      \frac{\mathbb{E}[X]}{c}
+P[X \geq c] \leq \frac{\mathbb{E}[X]}{c}
 $$
 
-#### &#x20;
+####
