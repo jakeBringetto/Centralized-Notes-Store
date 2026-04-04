@@ -226,3 +226,9 @@
 
 * [A year in the PNW](the-author/a-year-in-the-pnw.md)
 * [Projecting Ideology: A Mathematical Philosophy of Politics](the-author/projecting-ideology-a-mathematical-philosophy-of-politics.md)
+
+## Challenges
+
+***
+
+* [I Dropped a Neural Network](i-dropped-a-neural-network.md)
