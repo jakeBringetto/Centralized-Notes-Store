@@ -36,7 +36,7 @@ We're given a directory with 97 pytorch "pieces" and historical data that contai
 
 ### Solution
 
-There's a rather elegant solution that allows us to not have to naively brute force or do a sort of hill climbing algorithm on the data directly. Even if we could find pairings, there are still 48 blocks to order, so 48! different permutations — this is too many! The approach comes from the realization that there is an implicit structure of residual networks that leads to a distinct pattern in the weights of a given block.&#x20;
+There's a rather elegant solution that allows us to not have to naively brute force or do optimization the data directly. Even if we could find pairings, there are still 48 blocks to order, so 48! different permutations — this is too many! The approach comes from the realization that there is an implicit structure of residual networks that leads to a distinct pattern in the weights of a given block.&#x20;
 
 In a deep resnet, we find that after training, each block forms a transformation close to the identity matrix; the sequence of blocks represents a sequence of small near-identity perturbations. This leads to structured blocks with strong diagonals.
 

@@ -229,6 +229,4 @@
 
 ## Challenges
 
-***
-
-* [I Dropped a Neural Network](i-dropped-a-neural-network.md)
+* [I Dropped a Neural Network](challenges/i-dropped-a-neural-network.md)
