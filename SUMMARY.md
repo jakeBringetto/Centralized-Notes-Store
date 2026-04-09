@@ -30,6 +30,7 @@
 
 ## Research Papers
 
+* [Attention Residuals](research-papers/attention-residuals.md)
 * [Meloform](research-papers/meloform.md)
 * [Museformer](research-papers/museformer.md)
 * [Fast Model Editing at Scale](research-papers/fast-model-editing-at-scale.md)
