@@ -30,6 +30,7 @@
 
 ## Research Papers
 
+* [Fast KV compaction via Attention Matching](research-papers/fast-kv-compaction-via-attention-matching.md)
 * [Sparse Autoencoders](research-papers/sparse-autoencoders.md)
 * [Attention Residuals](research-papers/attention-residuals.md)
 * [Meloform](research-papers/meloform.md)
