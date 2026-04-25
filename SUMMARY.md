@@ -30,6 +30,7 @@
 
 ## Research Papers
 
+* [Sparse Autoencoders](research-papers/sparse-autoencoders.md)
 * [Attention Residuals](research-papers/attention-residuals.md)
 * [Meloform](research-papers/meloform.md)
 * [Museformer](research-papers/museformer.md)
